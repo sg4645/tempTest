@@ -34,7 +34,7 @@ div {
 	
 	<div class="blue">파랑</div>
 	
-	<div class="green">초록11111</div>
+
 	
 
 </body>
