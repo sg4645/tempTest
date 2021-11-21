@@ -14,9 +14,6 @@ div {
 	background-color: red;
 }
 
-.blue {
-	background-color: blue;
-}
 
 .yellow{
 	background-color: yellow;
@@ -31,8 +28,7 @@ div {
 	<div class="red">빨강</div>
 	
 	<div class="yellow">노랑</div>
-	
-	<div class="blue">파랑</div>
+
 	
 	<div class="green">초록11111</div>
 	
