@@ -10,8 +10,8 @@ div {
 	width: 100px;
 	height:100px;
 }
-.red {
-	background-color: red;
+.gold {
+	background-color: gold;
 }
 .yellow{
 	background-color: yellow;
@@ -19,7 +19,7 @@ div {
 </style>
 </head>
 <body>
-	<div class="red">빨강</div>
+	<div class="gold">gold</div>
 	
 	<div class="yellow">노랑</div>
 	
