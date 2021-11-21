@@ -13,12 +13,15 @@ div {
 .red {
 	background-color: red;
 }
+.yellow{
+	background-color: yellow;
+}
 </style>
 </head>
 <body>
 	<div class="red">빨강</div>
 	
-	<div>노랑</div>
+	<div class="yellow">노랑</div>
 	
 	<div>파랑</div>
 	
