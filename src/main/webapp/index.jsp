@@ -18,10 +18,6 @@ div {
 	background-color: blue;
 }
 
-.yellow{
-	background-color: yellow;
-}
-
 .green{
 	background-color: green;
 }
