@@ -25,7 +25,9 @@ div {
 }
 </style>
 </head>
+
 <body>
+	<div class = "red">빨강</div>
 	
 	<div class="yellow">노랑</div>
 	
@@ -35,4 +37,5 @@ div {
 	
 	<div class="pink">핑크</div>
 </body>
+
 </html>
