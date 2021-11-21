@@ -13,6 +13,9 @@ div {
 .red {
 	background-color: red;
 }
+.yellow{
+	background-color: yellow;
+}
 .green{
 	background-color: green;
 }
@@ -21,7 +24,7 @@ div {
 <body>
 	<div class="red">빨강</div>
 	
-	<div>노랑</div>
+	<div ckass="yellow">노랑</div>
 	
 	<div>파랑</div>
 	
