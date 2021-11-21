@@ -13,7 +13,9 @@ div {
 .red {
 	background-color: red;
 }
-
+.yellow{
+	background-color: yellow;
+}
 </style>
 </head>
 <body>
