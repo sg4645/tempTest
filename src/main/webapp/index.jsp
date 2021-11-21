@@ -22,7 +22,7 @@ div {
 	<div class="yellow">노랑</div>
 
 	
-	<div class="green">초록11111</div>
+
 	
 
 </body>
