@@ -13,8 +13,13 @@ div {
 .red {
 	background-color: red;
 }
+<<<<<<< HEAD
 .blue {
 	background-color: blue;
+=======
+.green{
+	background-color: green;
+>>>>>>> 2d906f3aa9b6d6b3548463fda4f3678e7737b176
 }
 </style>
 </head>
@@ -25,7 +30,7 @@ div {
 	
 	<div class="blue">파랑</div>
 	
-	<div>초록</div>
+	<div class="green">초록11111</div>
 	
 
 </body>
