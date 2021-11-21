@@ -28,7 +28,9 @@ div {
 </style>
 </head>
 <body>
-	<div class="red">빨강</div>
+	<div class= "ffff">빨강</div>
+	
+	<div class = "1231">빨강</div>
 	
 	<div class="yellow">노랑</div>
 	
