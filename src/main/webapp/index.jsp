@@ -13,6 +13,9 @@ div {
 .red {
 	background-color: red;
 }
+.blue {
+	background-color: blue;
+}
 </style>
 </head>
 <body>
@@ -20,7 +23,7 @@ div {
 	
 	<div>노랑</div>
 	
-	<div>파랑</div>
+	<div class="blue">파랑</div>
 	
 	<div>초록</div>
 	
