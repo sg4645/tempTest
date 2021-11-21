@@ -10,8 +10,17 @@ div {
 	width: 100px;
 	height:100px;
 }
+.red {
+	background-color: red;
+}
 
+.blue {
+	background-color: blue;
+}
 
+.yellow{
+	background-color: yellow;
+}
 
 .green{
 	background-color: green;
@@ -19,10 +28,13 @@ div {
 </style>
 </head>
 <body>
-	<div class="yellow">노랑</div>
-
+	<div class="red">빨강</div>
 	
-
+	<div class="yellow">노랑</div>
+	
+	<div class="blue">파랑</div>
+	
+	<div class="green">초록11111</div>
 	
 
 </body>
